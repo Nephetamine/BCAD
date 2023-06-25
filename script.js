@@ -26,7 +26,7 @@ document.getElementById('horde-logo').addEventListener('click', function() {
 function promptPassword() {
   var password = prompt("why the fuck are you clicking on shit? weirdo...");
 
-  if (password === "Hadhun") {
+  if (password === "Haadhun") {
     // Password is correct, do nothing
   } else {
     // Display an error message or redirect the user to another page
