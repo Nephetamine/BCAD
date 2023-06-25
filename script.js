@@ -30,6 +30,6 @@ function promptPassword() {
     // Password is correct, do nothing
   } else {
     // Display an error message or redirect the user to another page
-    alert("Incorrect password. Access denied.");
+    alert("what did you think was gonna happen?");
   }
 }
